@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raalpe2014
 - 👀 I’m interested in novos conhecimentos.
-- 🌱 I’m currently learning  a progamar em java.
+- 🌱 I’m currently l estou a procura de um emprego .
 - 💞️ I’m looking to collaborate on projetos onde eu possa desenvolver novas habilidades.
 - 📫 How to reach me : rafael-pereira71@hotmail.com
 
