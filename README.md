@@ -1,9 +1,7 @@
-- 👋 Olá, sou @ Raalpe2014
--👀 Estou interessado em novos conhecimentos.
--🌱 Atualmente estou l estou a procura de um emprego.
--💞️ Estou procurando colaborar em projetos onde eu possa desenvolver novas habilidades.
--📫Como entrar em contato comigo: rafael-pereira71@hotmail.com
-<!---
-Raalpe2014/Raalpe2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, sou @ Raalpe2014.
+- 
+  <a href="https://github.com/Raalpe2016">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raalpe2014&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raalpe2014&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
